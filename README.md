@@ -12,7 +12,11 @@ The program was compiled in a .jar file, which can be downloaded and run in any 
 
 
 ## Usage
-When 
+When run, the program opens a window with a Menu bar and 3 Menu Items called:
+1. Personal (Personnel)
+2. Material (Supplies)
+3. Salir (Exit)
+
 ![Alt Text](/images/29.jpg)
 ![Alt Text](/images/31.jpg)
 
