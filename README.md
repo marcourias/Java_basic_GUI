@@ -8,14 +8,11 @@ A local database can be used to store the data, in development a MySQL database 
 
 ## Getting Started
 
-Include instructions on how to get your project running on a local machine.
-Prerequisites
+The program was compiled in a .jar file, which can be downloaded and run in any machine with JVM.
 
-List any software, libraries, or dependencies that need to be installed before running your project.
-Installing
 
-Step-by-step instructions on how to install your project.
-Usage
+## Usage
+
 
 Provide examples on how to use your project. Include screenshots or code snippets if necessary.
 Contributing
