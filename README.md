@@ -12,6 +12,9 @@ The program was compiled in a .jar file, which can be downloaded and run in any 
 
 
 ## Usage
+When 
+![Alt Text](/images/29.jpg)
+![Alt Text](/images/31.jpg)
 
 
 Provide examples on how to use your project. Include screenshots or code snippets if necessary.
