@@ -12,10 +12,15 @@ The program was compiled in a .jar file, which can be downloaded and run in any 
 
 
 ## Usage
-When run, the program opens a window with a Menu bar and 3 Menu Items called:
-1. Personal (Personnel)
-2. Material (Supplies)
-3. Salir (Exit)
+
+To use the program, follow these steps:
+
+    Download the .jar file from the repository.
+    Ensure that you have Java Virtual Machine (JVM) installed on your machine.
+    Double-click on the .jar file to run the program.
+    Use the menu bar to navigate to the Personnel or Supplies option.
+    Input the necessary data in the input window.
+    Click on the "Guardar" (save) button to store the data in the database.
 
 ![Alt Text](/images/37.jpg)
 
@@ -23,17 +28,3 @@ The 2 main options, Personal y Material, let the user open a new window to captu
 ![Alt Text](/images/29.jpg)
 ![Alt Text](/images/31.jpg)
 
-
-Provide examples on how to use your project. Include screenshots or code snippets if necessary.
-Contributing
-
-Explain how others can contribute to your project. Include information on how to submit bug reports or feature requests.
-Authors
-
-List the authors of the project and their respective roles.
-License
-
-Provide a license for your project. You can use a template such as the MIT License.
-Acknowledgments
-
-List any sources of inspiration or libraries/tools that you used in your project.
