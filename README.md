@@ -17,6 +17,8 @@ When run, the program opens a window with a Menu bar and 3 Menu Items called:
 2. Material (Supplies)
 3. Salir (Exit)
 
+![Alt Text](/images/37.jpg)
+
 ![Alt Text](/images/29.jpg)
 ![Alt Text](/images/31.jpg)
 
