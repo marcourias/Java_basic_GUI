@@ -20,7 +20,7 @@ When run, the program opens a window with a Menu bar and 3 Menu Items called:
 ![Alt Text](/images/37.jpg)
 
 The 2 main options, Personal y Material, let the user open a new window to capture data:
-![Alt Text](/images/29.jpg)
+
 ![Alt Text](/images/31.jpg)
 
 
